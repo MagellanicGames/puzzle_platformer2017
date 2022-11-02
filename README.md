@@ -1,5 +1,5 @@
 # puzzle_platformer2017
-C++ source for a puzzle game where you move blocks to create a path for your character to reach the end of the level.
+C++ source for a puzzle game where you move blocks to create a path for your character to reach the end of the level.  It also includes source for the level editor 
 
 This code is provided for portfolio purposes only.
 
